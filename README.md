@@ -13,6 +13,6 @@ A few resources to get you started if this is your first Flutter project:
 
 # Android Screen
 <img height="320px" src="https://user-images.githubusercontent.com/89992462/132542451-8d5e88a5-6636-4432-b3fe-f84c6872bd79.png">
-<img height="320px" src="https://user-images.githubusercontent.com/89992462/132478506-92f52efd-e8a8-4ea4-ba02-10fa14910001.png">
+<img height="320px" src="https://user-images.githubusercontent.com/89992462/132552639-bdfcc9c1-aef9-4b7f-911f-213be537694d.png">
 
 
