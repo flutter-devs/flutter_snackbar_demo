@@ -1,4 +1,4 @@
-# slide_transition_demo
+# snackbar_demo
 
 A new Flutter project.
 
